@@ -1,0 +1,33 @@
+body {
+  background-color: #2d545e;
+}
+
+hr {
+    background-color: white;
+    border-style:none;
+    border-top: dotted;
+    border-color: grey;
+    width: 5%;
+}
+h1 {
+  background-color: none;
+  color: #66BFBF;
+}
+h2 {
+    background-color: none;
+    color: #66BFBF;
+}
+h3 {
+  background-color: none;
+  color: #66BFBF;
+}
+a:visited {
+  color: white;
+}
+a:hover {
+  color: hotpink;
+}
+body {
+
+  color: #7d3cff;
+}
